@@ -1,0 +1,97 @@
+body{
+   
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+   
+}
+.card{
+   background-color: rgb(245, 173, 79);
+    padding:40px;
+}
+img {
+    width:150px;
+    height:150px;
+}
+.card .class1  {
+    display: flex;
+    flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si l'espace est insuffisant */
+    justify-content: center; /* Centre les éléments horizontalement */
+    gap: 20px; 
+    margin:10px;
+    background-color:plum ;
+    width: 900px;
+    height:150;
+    align-items: center;
+    text-align: center;
+}
+.card .class2{
+    display: flex;
+    flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si l'espace est insuffisant */
+    justify-content: center; /* Centre les éléments horizontalement */
+    gap: 20px; 
+    margin:10px;
+    background-color: rgb(124, 188, 248);  
+    align-items: center;
+    text-align: center;
+    width:900px;
+    height:150px;
+}
+.card .class3{
+    display: flex;
+    flex-wrap: wrap; /* Permet aux éléments de passer à la ligne si l'espace est insuffisant */
+    justify-content: center; /* Centre les éléments horizontalement */
+    gap: 20px; 
+    margin:10px;
+    background-color: rgb(165, 241, 102);
+    width:900px;
+    height:150px;  
+    align-items: center;
+    text-align: center;
+}
+h2{
+    /*font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;*/
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+ .class1  #btn1{
+    background-color: rgb(101, 197, 101);
+    height:50px;
+    width:100px;
+
+}
+.class1  #btn2{
+    background-color: rgb(224, 119, 119);
+    height:50px;
+    width:100px;
+}
+.class2  #btn1{
+    background-color: rgb(101, 197, 101);
+   
+    height:50px;
+    width:100px;
+}
+.class2  #btn2{
+    background-color: rgb(224, 119, 119);
+    height:50px;
+    width:100px;
+    
+} 
+.class3  #btn1{
+    background-color: rgb(101, 197, 101);
+    height:50px;
+    width:100px;
+}
+.class3  #btn2{
+    background-color: rgb(224, 119, 119);
+    height:50px;
+    width:100px;
+}
+
+
+
+/*2eme classe*/
+
+
+
