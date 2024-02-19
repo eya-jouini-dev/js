@@ -88,10 +88,10 @@ h2{
     height:50px;
     width:100px;
 }
-
-
-
-/*2eme classe*/
+  div  {
+    display:flex;
+    justify-content: center;
+}
 
 
 
